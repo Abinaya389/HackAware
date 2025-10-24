@@ -1,0 +1,70 @@
+{
+  "quiz": [
+    {
+      "question": "What is the primary purpose of OS updates?",
+      "options": [
+        {
+          "text": "To add new features",
+          "isCorrect": false
+        },
+        {
+          "text": "To fix security vulnerabilities",
+          "isCorrect": true
+        },
+        {
+          "text": "To change the user interface",
+          "isCorrect": false
+        },
+        {
+          "text": "To increase battery life",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "OS updates often include security patches that protect your device from vulnerabilities."
+    },
+    {
+      "question": "How can you enable automatic updates on your device?",
+      "options": [
+        {
+          "text": "By checking for updates manually every week",
+          "isCorrect": false
+        },
+        {
+          "text": "By going to Settings > System > Software update and enabling auto-update",
+          "isCorrect": true
+        },
+        {
+          "text": "By downloading a third-party app",
+          "isCorrect": false
+        },
+        {
+          "text": "By turning off your device",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Enabling auto-update ensures that your device receives the latest security patches automatically."
+    },
+    {
+      "question": "What should you do if you see an update notice?",
+      "options": [
+        {
+          "text": "Ignore it",
+          "isCorrect": false
+        },
+        {
+          "text": "Install it to keep your device secure",
+          "isCorrect": true
+        },
+        {
+          "text": "Only install if it has new features",
+          "isCorrect": false
+        },
+        {
+          "text": "Ask a friend if they have installed it",
+          "isCorrect": false
+        }
+      ],
+      "explanation": "Installing updates is crucial for maintaining the security and functionality of your device."
+    }
+  ]
+}

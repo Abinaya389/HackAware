@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "question": "A flashlight app asks for Camera + Contacts. Should you grant this permission?",
+      "options": [
+        {
+          "answer": "Yes, it's fine.",
+          "isCorrect": false
+        },
+        {
+          "answer": "No, only camera maybe.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "A flashlight app should only need access to the camera/flashlight; requesting contacts is unnecessary."
+    },
+    {
+      "question": "What should you do if an app requests permissions that seem excessive?",
+      "options": [
+        {
+          "answer": "Grant all permissions.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Check reviews and developer information.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "Always verify the necessity of permissions by checking app reviews and developer details."
+    },
+    {
+      "question": "If a game requests access to your SMS, what should you do?",
+      "options": [
+        {
+          "answer": "Allow it, it might be necessary.",
+          "isCorrect": false
+        },
+        {
+          "answer": "Deny it, it's suspicious.",
+          "isCorrect": true
+        }
+      ],
+      "explanation": "Games typically do not need access to your SMS; denying such requests is safer."
+    }
+  ]
+}

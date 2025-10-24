@@ -1,0 +1,62 @@
+{
+  "lesson": {
+    "title": {
+      "en": "Malicious / Fake Apps & App Permissions",
+      "ta": "தவறான / போலி செயலிகள் மற்றும் செயலி அனுமதிகள்"
+    },
+    "content": {
+      "en": [
+        {
+          "type": "hook",
+          "text": "That free flashlight app asking for camera and contacts — does it make sense?"
+        },
+        {
+          "type": "definition",
+          "text": "Permissions are the access rights that apps request to use certain features of your device."
+        },
+        {
+          "type": "explanation",
+          "text": "Always grant the least privilege necessary for an app to function. For example, a flashlight app should only need access to the camera."
+        },
+        {
+          "type": "examples",
+          "text": "Examples include a flashlight app requesting camera and contacts (unnecessary) or a game requesting SMS permissions (suspicious)."
+        },
+        {
+          "type": "how_to_check",
+          "text": "Check Play Store reviews, developer information, permissions list, and last update date before installing."
+        },
+        {
+          "type": "closing",
+          "text": "Always question permissions before granting."
+        }
+      ],
+      "ta": [
+        {
+          "type": "hook",
+          "text": "Adhu free flashlight app camera matrum contacts-kku ketkira — idhu sariyaa?"
+        },
+        {
+          "type": "definition",
+          "text": "Anumathigal na ungaloda device-ukku sila features-ai use panna apps ketkira access rights."
+        },
+        {
+          "type": "explanation",
+          "text": "Oru app work panna vendiya kadamaiyai thaan kodunga. Udharanama, flashlight app camera-kku thaan vendum."
+        },
+        {
+          "type": "examples",
+          "text": "Udharanangal: flashlight app camera matrum contacts-kku ketkira (thevai illai) illa oru game SMS-anumathi ketkira (suspicious)."
+        },
+        {
+          "type": "how_to_check",
+          "text": "Play Store reviews, developer information, permissions list, matrum last update date-a paarunga."
+        },
+        {
+          "type": "closing",
+          "text": "Anumathigal kodukkum munnaadi ellam ketkunga."
+        }
+      ]
+    }
+  }
+}
