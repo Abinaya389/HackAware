@@ -7,7 +7,7 @@ export default function Demo(){
 
       <article className="card" style={{textAlign:'left'}}>
         <h3>Sample fake SMS (demo)</h3>
-        <div style={{background:'#fafafa', padding:8, borderRadius:6}}>
+        <div style={{background:'none', padding:8, borderRadius:6}}>
           <p><strong>From:</strong> +91 98xx xxxx</p>
           <p><strong>Message:</strong> "Your package requires a delivery fee. Click https://fake-delivery.example to pay. Reply with OTP to confirm."</p>
         </div>
